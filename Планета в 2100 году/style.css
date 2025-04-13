@@ -1,0 +1,63 @@
+h1{
+    color:#193b4e;
+    font-size: 72px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: #0f2443;
+   }
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.image-container {
+    background-image: url('айсберг.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+hr{
+    color:#dbcfb5
+}
+
+p{
+    color:#dbcfb5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: justify;
+    line-height: 1.5;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+h2{
+    color:#dbcfb5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+img{
+    width: 900px;
+    height: 600px;
+    border: #dbcfb5;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+
+
+
